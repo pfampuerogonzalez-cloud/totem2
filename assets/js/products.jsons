@@ -1,0 +1,17 @@
+const response = await fetch('./assets/js/products.json');c 
+[
+  {
+    "id": 1,
+    "nombre": "Big Mac",
+    "precio": 5.50,
+    "categoria": "hamburguesas",
+    "imagen": "assets/img/big-mac.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Papas Medianas",
+    "precio": 2.00,
+    "categoria": "papas",
+    "imagen": "assets/img/papas.jpg"
+  }
+]
